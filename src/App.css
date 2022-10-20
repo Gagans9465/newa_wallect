@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  margin: 50px
+}
+
+.Uniswap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
